@@ -6,5 +6,5 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFuNGx3Y3Q0ZHZ4ZTh2NHpyMGt1aDNhZ3k2d2gyeDZpaGlpcHU1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sBikoeGRyOrK0/giphy.gif" width="100%" height="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFuNGx3Y3Q0ZHZ4ZTh2NHpyMGt1aDNhZ3k2d2gyeDZpaGlpcHU1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sBikoeGRyOrK0/giphy.gif" width="20%" height="20%"/>
 </div>
