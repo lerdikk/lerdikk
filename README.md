@@ -1,3 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJicGZqaHlncG5iYTBvZHl1ankycmgybG5scnR0ampzY3FuaXJxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iO4ptP2iuV29yui3mx/giphy.gif"  width="25%" height="25%"/>
 </div>
+<h1>
+  Hey! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
