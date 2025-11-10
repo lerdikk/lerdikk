@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About me:
-I am a student from 🇷🇺RUSSIA🇷🇺. Coding in C, C++, C# and Python.
+I am a student from **🇷🇺RUSSIA🇷🇺**. Coding in C, C++, C# and Python.
 - 🏫 Study at ITMO (St. Petersburg, Russia).
 - 😮‍💨 In free time I play computer games or go for walks.
 - 🎸 Also play guitar (mine is a Jackson JS11 Dinky).
