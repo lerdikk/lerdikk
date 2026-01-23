@@ -4,8 +4,6 @@
   Welcome to my profile :)
 </h1>
 
----
-
 ### 👨‍💻 About me:
 I am a student from **🇷🇺RUSSIA🇷🇺**. Coding in C, C++, C# and Python.
 - 🏫 Study at ITMO (St. Petersburg, Russia).
